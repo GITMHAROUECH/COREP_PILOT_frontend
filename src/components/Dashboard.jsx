@@ -84,7 +84,7 @@ const Dashboard = ({ phases, tasks, risks, stats }) => {
         <CardContent>
           <div className="space-y-2">
             <div className="flex justify-between text-sm">
-              <span>Avancement du projet COREP</span>
+              <span>Avancement des travaux du COREP</span>
               <span>{overallProgress}%</span>
             </div>
             <Progress value={overallProgress} className="h-3" />
