@@ -134,7 +134,7 @@ function App() {
           <div className="flex justify-between items-center py-4">
             <div>
               <h1 className="text-2xl font-bold text-gray-900">
-                COREP Tracker
+                COREP Followup
               </h1>
               <p className="text-sm text-gray-600">
                 Suivi de l'arrêté prudentiel - Production COREP
